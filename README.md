@@ -1,4 +1,4 @@
-# Formyou - book a course !
+# Formyou - Book a course!
 ### React Front website of the From You app
 (check it out at `https://formyou.herokuapp.com/`)
 (use it with the API at `https://api-formyou.herokuapp.com/`)
