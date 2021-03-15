@@ -3,7 +3,7 @@
 (check it out at `https://formyou.herokuapp.com/`)
 (use it with the API at `https://api-formyou.herokuapp.com/`)
 
-##### To be used with the [associated Rails API](https://github.com/cha-fa/api_formyou.git)
+##### To be used with the [associated Rails API](https://github.com/kentsbrockman/API-Formyou)
 
 ## Users 
 
